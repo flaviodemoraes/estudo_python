@@ -19,6 +19,8 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+O arquivo `requirements.txt` inclui as bibliotecas principais do projeto, como `fastapi`, `sqlalchemy`, `pydantic` e as ferramentas de teste `pytest` e `httpx`.
+
 ## Executando a aplicação
 Após instalar as dependências, inicialize o servidor com:
 
